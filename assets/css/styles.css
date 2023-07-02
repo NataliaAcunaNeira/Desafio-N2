@@ -1,0 +1,39 @@
+body{
+    margin: 100;
+}
+
+.header{
+    background-image: url(../css/gato-inter.jpg); 
+    background-repeat: no-repeat;
+    color: coral;
+    height: 350px;
+    max-width: 1350px;
+    border: solid 1px coral;
+}
+
+.formatogato{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    margin: 50px 200px;
+    max-width: 1000px;
+}
+
+.imagengatitos{
+    width: 200px;
+    border: solid 1px coral;
+}    
+
+.textos{
+    text-align: justify;
+    margin-left: 50px;
+}
+
+.footer{
+    background-color: coral;
+    align-items: center;
+    max-width: 1350px;
+    text-align: center;
+    color: white;
+}
+   
